@@ -183,7 +183,7 @@ remove_startup.bat
 report.bat            print current figures
 selftest.bat          persistence + backend check
 tools/
-  make_screenshot.py   renders docs/*.png from made-up counts
+  make_screenshot.py  renders docs/*.png from made-up counts
 odometer/
   config.py           JSON settings
   store.py            counters, per-day history, atomic save
